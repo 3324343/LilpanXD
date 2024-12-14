@@ -40,5 +40,8 @@ echo "
           @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@          
         " | lolcat
 clear
+apt install cmatrix
+cmatrix
+clear
 date | lolcat
 echo ""
