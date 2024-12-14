@@ -42,6 +42,6 @@ echo "
 clear
 apt install cmatrix
 cmatrix
-clear
+^C
 date | lolcat
 echo ""
