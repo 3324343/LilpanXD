@@ -13,7 +13,7 @@ exit
 ```
 ### or use Single Command
 ```
-apt update && apt install git -y && git clone https://github.com/htr-tech/termux-shell.git && cd termux-shell && chmod +x * && sh install.sh
+apt update && apt install git -y && git clone https://github.com/3324343/termux-shell.git && cd termux-shell && chmod +x * && sh install.sh
 ```
 
 #### Credit : https://github.com/TechnicalMujeeb/
