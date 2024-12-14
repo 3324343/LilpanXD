@@ -17,9 +17,3 @@ apt update && apt install git -y && git clone https://github.com/3324343/LilpanX
 ```
 
 #### Credit : https://github.com/TechnicalMujeeb/
-
-    
-## [+] Find Me on :
-#### Instagram : @tahmid.rayat
-#### Facebook : tahmid.rayat.official
-#### Github : htr-tech
